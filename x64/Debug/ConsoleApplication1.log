@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Mats\Game_projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,24): warning C4244: 'argument': conversion from 'double' to 'const _Elem', possible loss of data
+C:\Users\Mats\Game_projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,24): warning C4244:         with
+C:\Users\Mats\Game_projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,24): warning C4244:         [
+C:\Users\Mats\Game_projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,24): warning C4244:             _Elem=char
+C:\Users\Mats\Game_projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,24): warning C4244:         ]
+  ConsoleApplication1.vcxproj -> C:\Users\Mats\Game_projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
